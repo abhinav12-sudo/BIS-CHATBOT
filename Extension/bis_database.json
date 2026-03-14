@@ -1,0 +1,18 @@
+{
+    "EP-T6530":{
+        "company": "Samsung",
+        "license": "R-12345678",
+        "bis_certified": true
+    },
+    "A1652":{
+        "company": "Apple",
+        "license": "R-87654321",
+        "bis_certified": true
+    },
+    "XYZ-111":{
+        "company": "DemoBrand",
+        "license": "R-0000001",
+        "bis_certified": false
+    }
+
+}
